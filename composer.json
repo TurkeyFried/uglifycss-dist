@@ -1,5 +1,5 @@
 {
-    "name": "turkeyfried/uglifyjs2-dist",
+    "name": "turkeyfried/uglifycss-dist",
     "author": "Franck Marcia <franck.marcia@gmail.com> (https://github.com/fmarcia)",
     "description": "Port of YUI CSS Compressor to NodeJS",
     "version": "0.0.17",
