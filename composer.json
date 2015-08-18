@@ -1,0 +1,18 @@
+{
+    "name": "turkeyfried/uglifyjs2-dist",
+    "author": "Franck Marcia <franck.marcia@gmail.com> (https://github.com/fmarcia)",
+    "description": "Port of YUI CSS Compressor to NodeJS",
+    "version": "0.0.17",
+    "keywords": [
+        "css",
+        "stylesheet",
+        "uglify",
+        "minify"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/fmarcia/UglifyCSS",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/fmarcia/UglifyCSS.git"
+    }
+}
